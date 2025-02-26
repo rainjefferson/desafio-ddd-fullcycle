@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jeffe\\Desktop\\DDD Modelagem\\DesafioGitHub\\desafio-ddd-fullcycle\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jeffe\\Desktop\\DDD Modelagem\\DesafioGitHub\\desafio-ddd-fullcycle\\src\\infrastructure\\order\\repository\\sequilize\\order.repository.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\infrastructure\\order\\repository\\sequilize\\order.repository.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jeffe\\Desktop\\DDD Modelagem\\DesafioGitHub\\desafio-ddd-fullcycle\\src\\domain\\checkout\\repository\\order.repository.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\domain\\checkout\\repository\\order.repository.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jeffe\\Desktop\\DDD Modelagem\\DesafioGitHub\\desafio-ddd-fullcycle\\src\\infrastructure\\order\\repository\\sequilize\\order.model.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\infrastructure\\order\\repository\\sequilize\\order.model.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jeffe\\Desktop\\DDD Modelagem\\DesafioGitHub\\desafio-ddd-fullcycle\\src\\infrastructure\\customer\\repository\\sequelize\\customer.model.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\infrastructure\\customer\\repository\\sequelize\\customer.model.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jeffe\\Desktop\\DDD Modelagem\\DesafioGitHub\\desafio-ddd-fullcycle\\src\\infrastructure\\customer\\repository\\sequelize\\customer.repository.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\infrastructure\\customer\\repository\\sequelize\\customer.repository.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jeffe\\Desktop\\DDD Modelagem\\DesafioGitHub\\desafio-ddd-fullcycle\\src\\domain\\checkout\\repository\\order.repository.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\domain\\checkout\\repository\\order.repository.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jeffe\\Desktop\\DDD Modelagem\\DesafioGitHub\\desafio-ddd-fullcycle\\src\\domain\\checkout\\entity\\order_item.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\domain\\checkout\\entity\\order_item.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jeffe\\Desktop\\DDD Modelagem\\DesafioGitHub\\desafio-ddd-fullcycle\\src\\infrastructure\\order\\repository\\sequilize\\order-item.model.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\infrastructure\\order\\repository\\sequilize\\order-item.model.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "customer.repository.ts",
+              "DocumentMoniker": "C:\\Users\\jeffe\\Desktop\\DDD Modelagem\\DesafioGitHub\\desafio-ddd-fullcycle\\src\\infrastructure\\customer\\repository\\sequelize\\customer.repository.ts",
+              "RelativeDocumentMoniker": "src\\infrastructure\\customer\\repository\\sequelize\\customer.repository.ts",
+              "ToolTip": "C:\\Users\\jeffe\\Desktop\\DDD Modelagem\\DesafioGitHub\\desafio-ddd-fullcycle\\src\\infrastructure\\customer\\repository\\sequelize\\customer.repository.ts",
+              "RelativeToolTip": "src\\infrastructure\\customer\\repository\\sequelize\\customer.repository.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-02-26T01:23:54.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "customer.model.ts",
+              "DocumentMoniker": "C:\\Users\\jeffe\\Desktop\\DDD Modelagem\\DesafioGitHub\\desafio-ddd-fullcycle\\src\\infrastructure\\customer\\repository\\sequelize\\customer.model.ts",
+              "RelativeDocumentMoniker": "src\\infrastructure\\customer\\repository\\sequelize\\customer.model.ts",
+              "ToolTip": "C:\\Users\\jeffe\\Desktop\\DDD Modelagem\\DesafioGitHub\\desafio-ddd-fullcycle\\src\\infrastructure\\customer\\repository\\sequelize\\customer.model.ts",
+              "RelativeToolTip": "src\\infrastructure\\customer\\repository\\sequelize\\customer.model.ts",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAowCQAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-02-26T01:17:43.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "order.repository.spec.ts",
+              "DocumentMoniker": "C:\\Users\\jeffe\\Desktop\\DDD Modelagem\\DesafioGitHub\\desafio-ddd-fullcycle\\src\\infrastructure\\order\\repository\\sequilize\\order.repository.spec.ts",
+              "RelativeDocumentMoniker": "src\\infrastructure\\order\\repository\\sequilize\\order.repository.spec.ts",
+              "ToolTip": "C:\\Users\\jeffe\\Desktop\\DDD Modelagem\\DesafioGitHub\\desafio-ddd-fullcycle\\src\\infrastructure\\order\\repository\\sequilize\\order.repository.spec.ts",
+              "RelativeToolTip": "src\\infrastructure\\order\\repository\\sequilize\\order.repository.spec.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-02-26T01:06:43.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "order.repository.spec.ts",
+              "DocumentMoniker": "C:\\Users\\jeffe\\Desktop\\DDD Modelagem\\DesafioGitHub\\desafio-ddd-fullcycle\\src\\domain\\checkout\\repository\\order.repository.spec.ts",
+              "RelativeDocumentMoniker": "src\\domain\\checkout\\repository\\order.repository.spec.ts",
+              "ToolTip": "C:\\Users\\jeffe\\Desktop\\DDD Modelagem\\DesafioGitHub\\desafio-ddd-fullcycle\\src\\domain\\checkout\\repository\\order.repository.spec.ts",
+              "RelativeToolTip": "src\\domain\\checkout\\repository\\order.repository.spec.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD8AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-02-26T01:06:11.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "order_item.ts",
+              "DocumentMoniker": "C:\\Users\\jeffe\\Desktop\\DDD Modelagem\\DesafioGitHub\\desafio-ddd-fullcycle\\src\\domain\\checkout\\entity\\order_item.ts",
+              "RelativeDocumentMoniker": "src\\domain\\checkout\\entity\\order_item.ts",
+              "ToolTip": "C:\\Users\\jeffe\\Desktop\\DDD Modelagem\\DesafioGitHub\\desafio-ddd-fullcycle\\src\\domain\\checkout\\entity\\order_item.ts",
+              "RelativeToolTip": "src\\domain\\checkout\\entity\\order_item.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-02-26T00:58:44.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "order.model.ts",
+              "DocumentMoniker": "C:\\Users\\jeffe\\Desktop\\DDD Modelagem\\DesafioGitHub\\desafio-ddd-fullcycle\\src\\infrastructure\\order\\repository\\sequilize\\order.model.ts",
+              "RelativeDocumentMoniker": "src\\infrastructure\\order\\repository\\sequilize\\order.model.ts",
+              "ToolTip": "C:\\Users\\jeffe\\Desktop\\DDD Modelagem\\DesafioGitHub\\desafio-ddd-fullcycle\\src\\infrastructure\\order\\repository\\sequilize\\order.model.ts",
+              "RelativeToolTip": "src\\infrastructure\\order\\repository\\sequilize\\order.model.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-02-26T00:57:35.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "order.repository.ts",
+              "DocumentMoniker": "C:\\Users\\jeffe\\Desktop\\DDD Modelagem\\DesafioGitHub\\desafio-ddd-fullcycle\\src\\domain\\checkout\\repository\\order.repository.ts",
+              "RelativeDocumentMoniker": "src\\domain\\checkout\\repository\\order.repository.ts",
+              "ToolTip": "C:\\Users\\jeffe\\Desktop\\DDD Modelagem\\DesafioGitHub\\desafio-ddd-fullcycle\\src\\domain\\checkout\\repository\\order.repository.ts",
+              "RelativeToolTip": "src\\domain\\checkout\\repository\\order.repository.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-02-26T00:44:59.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "order-item.model.ts",
+              "DocumentMoniker": "C:\\Users\\jeffe\\Desktop\\DDD Modelagem\\DesafioGitHub\\desafio-ddd-fullcycle\\src\\infrastructure\\order\\repository\\sequilize\\order-item.model.ts",
+              "RelativeDocumentMoniker": "src\\infrastructure\\order\\repository\\sequilize\\order-item.model.ts",
+              "ToolTip": "C:\\Users\\jeffe\\Desktop\\DDD Modelagem\\DesafioGitHub\\desafio-ddd-fullcycle\\src\\infrastructure\\order\\repository\\sequilize\\order-item.model.ts",
+              "RelativeToolTip": "src\\infrastructure\\order\\repository\\sequilize\\order-item.model.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-02-26T00:41:31.853Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

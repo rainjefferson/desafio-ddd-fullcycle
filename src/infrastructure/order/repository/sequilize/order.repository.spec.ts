@@ -62,14 +62,14 @@ describe("Order repository test", () => {
 
     const orderModel = await OrderModel.findOne({
       where: { id: order.id },
-      include: ["items"],
+      include: ["orderItems"],
     });
 
     expect(orderModel.toJSON()).toStrictEqual({
       id: "123",
       customer_id: "123",
       total: order.total(),
-      items: [
+      orderItems: [
         {
           id: orderItem.id,
           name: orderItem.name,

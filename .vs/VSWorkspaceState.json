@@ -1,6 +1,17 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\src",
+    "\\src\\domain",
+    "\\src\\domain\\checkout",
+    "\\src\\domain\\checkout\\entity",
+    "\\src\\infrastructure",
+    "\\src\\infrastructure\\customer",
+    "\\src\\infrastructure\\customer\\repository",
+    "\\src\\infrastructure\\customer\\repository\\sequelize",
+    "\\src\\infrastructure\\order",
+    "\\src\\infrastructure\\order\\repository",
+    "\\src\\infrastructure\\order\\repository\\sequilize"
   ],
   "PreviewInSolutionExplorer": false
 }

@@ -28,18 +28,18 @@ describe("Customer unit tests", () => {
   it("should activate customer", () => {
     const customer = new Customer("1", "Customer 1");
     const address = new Address("Street 1", 123, "13330-250", "São Paulo");
-    customer.Address = address;
+    customer.changeAddress(address); 
 
     customer.activate();
 
-    expect(customer.isActive()).toBe(true);
+    expect(customer.isActive).toBe(true); 
   });
 
   it("should throw error when address is undefined when you activate a customer", () => {
     expect(() => {
       const customer = new Customer("1", "Customer 1");
       customer.activate();
-    }).toThrowError("Address is mandatory to activate a customer");
+    }).toThrowError("Address is required to activate customer");
   });
 
   it("should deactivate customer", () => {
@@ -47,7 +47,7 @@ describe("Customer unit tests", () => {
 
     customer.deactivate();
 
-    expect(customer.isActive()).toBe(false);
+    expect(customer.isActive).toBe(false); 
   });
 
   it("should add reward points", () => {

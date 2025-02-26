@@ -12,7 +12,7 @@ export default class CustomerRepository implements CustomerRepositoryInterface {
       number: entity.Address.number,
       zipcode: entity.Address.zip,
       city: entity.Address.city,
-      active: entity.isActive(),
+      active: entity.isActive,
       rewardPoints: entity.rewardPoints,
     });
   }
@@ -25,7 +25,7 @@ export default class CustomerRepository implements CustomerRepositoryInterface {
         number: entity.Address.number,
         zipcode: entity.Address.zip,
         city: entity.Address.city,
-        active: entity.isActive(),
+        active: entity.isActive,
         rewardPoints: entity.rewardPoints,
       },
       {

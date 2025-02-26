@@ -1,8 +1,11 @@
 import Address from "../value-object/address";
+import EventDispatcher from "../../@shared/event/event-dispatcher";
+import CustomerCreatedEvent from "../event/customer-created.event";
+import CustomerAddressChangedEvent from "../event/customer-address-changed.event";
 
 export default class Customer {
   private _id: string;
-  private _name: string = "";
+  private _name: string;
   private _address!: Address;
   private _active: boolean = false;
   private _rewardPoints: number = 0;
@@ -21,20 +24,7 @@ export default class Customer {
     return this._name;
   }
 
-  get rewardPoints(): number {
-    return this._rewardPoints;
-  }
-
-  validate() {
-    if (this._id.length === 0) {
-      throw new Error("Id is required");
-    }
-    if (this._name.length === 0) {
-      throw new Error("Name is required");
-    }
-  }
-
-  changeName(name: string) {
+  changeName(name: string): void {
     this._name = name;
     this.validate();
   }
@@ -42,31 +32,44 @@ export default class Customer {
   get Address(): Address {
     return this._address;
   }
-  
+
   changeAddress(address: Address) {
     this._address = address;
   }
 
-  isActive(): boolean {
+  setAddress(address: Address): void {
+    this._address = address;
+  }
+
+  get isActive(): boolean {
     return this._active;
   }
 
-  activate() {
-    if (this._address === undefined) {
-      throw new Error("Address is mandatory to activate a customer");
+  activate(): void {
+    if (!this._address) {
+      throw new Error("Address is required to activate customer");
     }
     this._active = true;
   }
 
-  deactivate() {
+  deactivate(): void {
     this._active = false;
   }
 
-  addRewardPoints(points: number) {
+  get rewardPoints(): number {
+    return this._rewardPoints;
+  }
+
+  addRewardPoints(points: number): void {
     this._rewardPoints += points;
   }
 
-  set Address(address: Address) {
-    this._address = address;
+  private validate(): void {
+    if (!this._id) {
+      throw new Error("Id is required");
+    }
+    if (!this._name) {
+      throw new Error("Name is required");
+    }
   }
 }
